@@ -65,7 +65,7 @@ const {
       gist_id: gistId,
       files: {
         [filename]: {
-          filename: `🎵 My last week in music`,
+          filename: `🎵 What did I listen last week? @Rominwolf`,
           content: lines.join('\n'),
         },
       },
